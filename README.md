@@ -27,6 +27,7 @@ The application is deployed using **Render** and can be accessed at the followin
 ```bash
  python app.py
 5.Open the app in your browser at http://localhost:5000.
+
 ## Requirements
 - Python 3.x
 - Flask
@@ -36,9 +37,6 @@ The application is deployed using **Render** and can be accessed at the followin
 Install the required libraries by running:
 ```bash
 pip install -r requirements.txt
-## Screenshots
-Below is a screenshot of the application:
 
-![App Screenshot](C:\Users\Supriyaarun\Pictures\Screenshots\SPAM_DETECTOR.png)
 
 
